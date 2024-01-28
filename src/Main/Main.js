@@ -30,7 +30,7 @@ const Main = () => {
                             <a href="" className="cards">
                                 <div className="cards card1">
                                     <img src={Playlist1} alt="" />
-                                    <span>Eletrizantes</span>
+                                    <span>Eletrizante</span>
                                 </div>
                             </a>
                             <a href="" className="cards">
@@ -42,7 +42,7 @@ const Main = () => {
                             <a href="" className="cards">
                                 <div className="cards card3">
                                     <img src={Playlist3} alt="" />
-                                    <span>Lançamentos</span>
+                                    <span>Novos</span>
                                 </div>
                             </a>
                             <a href="" className="cards">

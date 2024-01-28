@@ -103,3 +103,21 @@
 .header__login .login:hover {
   transform: scale(1.04);
 }
+
+@media screen and (max-width:932px){
+  
+.header__navigation {
+  padding: 1rem;
+  margin: 15px;
+  padding: 1rem;
+  max-width: 80vw;
+  margin-top: 16vh;
+  margin-right: 15px;
+}
+.arrow-left, .arrow-right{
+  display: none;
+}
+.header__login {
+  display: none;
+}
+}
