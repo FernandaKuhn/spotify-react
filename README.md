@@ -1,4 +1,4 @@
-#Spotify versão gamer🎮🎮
+### Spotify versão gamer🎮🎮
 <br>
 <h3>Projeto responsivo tablet e smartphone</h3>
 <p>O principal objetivo foi criar um espaço dedicado dentro do Spotify voltado para a comunidade gamer. Este espaço visa oferecer playlists elaboradas para diferentes momentos de jogos, podcasts de ajudas e curiosidades, e trilhas sonoras inesquecíveis.</p>
